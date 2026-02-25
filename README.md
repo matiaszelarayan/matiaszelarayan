@@ -1,7 +1,7 @@
 # Hi there, I'm Matías Zelarayán 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+%2B+Spring+builder;React+%26+Vanilla+JS+Enthusiast;Building+solutions+from+Argentina" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+%2B+Spring+builder;React+%26+Vanilla+JS+enthusiast;Building+solutions+from+Argentina" alt="Typing SVG" />
 </p>
 
 ---
