@@ -8,7 +8,11 @@
 
 ### 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi enfoque principal es el desarrollo **Fullstack**, combinando la potencia de **Java/Spring** en el servidor con interfaces dinámicas en **React** y la agilidad de **JavaScript Vanilla**.
+**Full Stack Developer Jr.** y estudiante avanzado de la **Tecnicatura Universitaria en Diseño y Desarrollo de Aplicaciones Multiplataforma**. 
+
+Mi enfoque principal es la arquitectura **Backend (Java, Spring Boot)** y entornos **Cloud (OCI)**, con sólida experiencia en el ciclo de vida de software utilizando **React, TypeScript** y bases de datos relacionales. 
+
+> 🎨 **El diferencial:** Mi formación previa en **Artes Visuales** potencia mi capacidad para el **Control de Calidad (QA)** y el diseño de interfaces (**UX/UI**). Esto me permite garantizar productos que no solo son técnicamente eficientes y seguros, sino también visualmente coherentes y centrados en la experiencia del usuario.
 
 - 🔭 **Proyectos Actuales:** [Circular Local](https://github.com/R-Mutt1917/CircularLocal) & [Proyecto Medjugorje](https://github.com/matiaszelarayan/Medjugorje)
 - ✍️ **Blog Personal:** [Medium](https://medium.com/@r.mutt1917)
