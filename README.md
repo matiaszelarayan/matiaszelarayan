@@ -46,20 +46,8 @@ Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi e
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiaszelarayan&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matiaszelarayan&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
----
-
 ### 📬 Conectemos
 Si buscas un desarrollador comprometido con el código limpio y la arquitectura sólida, ¡escríbeme!
 - 📧 Email: **matiaszelarayandev@gmail.com**
 - 💬 LinkedIn: [Matías Zelarayán](https://linkedin.com/in/matiaszelarayan22)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/R-Mutt22/R-Mutt22/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
